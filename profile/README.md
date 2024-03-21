@@ -1,5 +1,4 @@
-# Lolita TS
-Powered by 泠熙子.
+# 没有什么好看的，闲人免进
 
 
 <!--
